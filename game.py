@@ -213,7 +213,6 @@ class NeuralNetAnimation:
                 )
 
 
-
 class ActionSpace:
     def __init__(self, actions: list):
         self.actions = actions
